@@ -43,7 +43,7 @@ pipeline {
             }
 
             steps {
-                echo 'Deploying to a prod environment ...'
+                echo 'Deploying to a PROD environment, please be ready in case something goes wrong ...'
             }
         }
     }
